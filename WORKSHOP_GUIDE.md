@@ -23,10 +23,14 @@ Each team must use its own meeting ID.
 
 | Team | Meeting ID |
 |---|---|
-| Team 1 | `team-1` |
-| Team 2 | `team-2` |
-| Team 3 | `team-3` |
-| Team 4 | `team-4` |
+| Team 1 | `team1` |
+| Team 2 | `team2` |
+| Team 3 | `team3` |
+| Team 4 | `team4` |
+| Team 5 | `team5` |
+| Team 6 | `team6` |
+| Team 7 | `team7` |
+| Team 8 | `team8` |
 
 Use the same meeting ID in the dashboard and in the audio client.
 
