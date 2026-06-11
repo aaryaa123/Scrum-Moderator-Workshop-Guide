@@ -38,7 +38,6 @@ Use the same meeting ID in the dashboard and in the audio client.
 2. Enter your assigned meeting ID.
 3. Select the meeting type:
    - Daily Standup
-   - Sprint Planning
 4. Enter participant names.
 5. Click **Start Meeting**.
 
@@ -94,13 +93,6 @@ I am done.
 That is my update.
 ```
 
-### Move to the next topic
-
-```text
-Let us move on.
-Next topic.
-Move to the next agenda item.
-```
 
 ---
 
@@ -126,21 +118,6 @@ I have no blockers.
 
 ---
 
-## 7. Sprint Planning
-
-Follow the agenda shown in the dashboard:
-
-```text
-Sprint Goal
-Capacity
-Backlog Review
-Task Breakdown
-Commitment
-```
-
-After each section, click **Advance Agenda**.
-
----
 
 ## 8. End the Meeting
 
