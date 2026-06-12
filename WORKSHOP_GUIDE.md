@@ -10,7 +10,14 @@ This guide explains how to use the Scrum Meeting Moderator during the workshop.
 [Open Dashboard](https://transform-coordination-procedure-true.trycloudflare.com)  |
 
 **Backend URL:**  
-`PASTE_BACKEND_URL_HERE`  |
+| Team 1 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team1) |
+| Team 2 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team2) |
+| Team 3 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team3) |
+| Team 4 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team4) |
+| Team 5 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team5) |
+| Team 6 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team6) |
+| Team 7 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team7) |
+| Team 8 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team8) |
 
 **Survey URL:**  
 [Open Survey](https://docs.google.com/forms/d/e/1FAIpQLScaKHYjyZjb6lmbOcZoghg587-vcZmUtOjAeEqsdCmxTqGVTg/viewform?usp=sharing&ouid=104127562644944409295)  |
@@ -47,7 +54,7 @@ Use the same meeting ID in the dashboard and in the audio client.
 Example participants:
 
 ```text
-Alice, Bob, Charlie
+Alice, Bob, Charlie, David
 ```
 
 ---
@@ -57,14 +64,17 @@ Alice, Bob, Charlie
 Open the audio client link for your team:
 
 ```text
-PASTE_BACKEND_URL_HERE/client/YOUR-MEETING-ID
+**Backend URL:**  
+| Team 1 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team1) |
+| Team 2 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team2) |
+| Team 3 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team3) |
+| Team 4 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team4) |
+| Team 5 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team5) |
+| Team 6 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team6) |
+| Team 7 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team7) |
+| Team 8 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team8) |
 ```
 
-Example for Team 1:
-
-```text
-PASTE_BACKEND_URL_HERE/client/team-1
-```
 
 Then:
 
