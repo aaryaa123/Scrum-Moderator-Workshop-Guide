@@ -4,12 +4,16 @@ This guide explains how to use the Scrum Meeting Moderator during the workshop.
 
 ---
 
-## 1. Links
+# 1. Workshop Links
 
-**Dashboard URL:**  
-[Open Dashboard](https://transform-coordination-procedure-true.trycloudflare.com)  |
+## 📊 Dashboard
 
-**Backend URL:**  
+[Open Dashboard](https://transform-coordination-procedure-true.trycloudflare.com)
+
+## 🎤 Audio Client Links
+
+| Team   | Audio Client                                                                       |
+| ------ | ---------------------------------------------------------------------------------- |
 | Team 1 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team1) |
 | Team 2 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team2) |
 | Team 3 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team3) |
@@ -19,39 +23,40 @@ This guide explains how to use the Scrum Meeting Moderator during the workshop.
 | Team 7 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team7) |
 | Team 8 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team8) |
 
-**Survey URL:**  
-[Open Survey](https://docs.google.com/forms/d/e/1FAIpQLScaKHYjyZjb6lmbOcZoghg587-vcZmUtOjAeEqsdCmxTqGVTg/viewform?usp=sharing&ouid=104127562644944409295)  |
----
+## 📝 Feedback Survey
 
-## 2. Team Meeting IDs
-
-Each team must use its own meeting ID.
-
-| Team | Meeting ID |
-|---|---|
-| Team 1 | `team1` |
-| Team 2 | `team2` |
-| Team 3 | `team3` |
-| Team 4 | `team4` |
-| Team 5 | `team5` |
-| Team 6 | `team6` |
-| Team 7 | `team7` |
-| Team 8 | `team8` |
-
-Use the same meeting ID in the dashboard and in the audio client.
+[Open Survey](https://docs.google.com/forms/d/e/1FAIpQLScaKHYjyZjb6lmbOcZoghg587-vcZmUtOjAeEqsdCmxTqGVTg/viewform?usp=sharing&ouid=104127562644944409295)
 
 ---
 
-## 3. Start the Dashboard
+# 2. Team Meeting IDs
 
-1. Open the Dashboard URL.
-2. Enter your assigned meeting ID.
-3. Select the meeting type:
-   - Daily Standup
-4. Enter participant names.
+Each team must use its assigned Meeting ID.
+
+| Team   | Meeting ID |
+| ------ | ---------- |
+| Team 1 | `team1`    |
+| Team 2 | `team2`    |
+| Team 3 | `team3`    |
+| Team 4 | `team4`    |
+| Team 5 | `team5`    |
+| Team 6 | `team6`    |
+| Team 7 | `team7`    |
+| Team 8 | `team8`    |
+
+Use the same Meeting ID in both the Dashboard and Audio Client.
+
+---
+
+# 3. Start the Dashboard
+
+1. Open the Dashboard.
+2. Enter your assigned Meeting ID.
+3. Select **Daily Standup**.
+4. Add participant names.
 5. Click **Start Meeting**.
 
-Example participants:
+Example:
 
 ```text
 Alice, Bob, Charlie, David
@@ -59,37 +64,19 @@ Alice, Bob, Charlie, David
 
 ---
 
-## 4. Start the Audio Client
+# 4. Start the Audio Client
 
-Open the audio client link for your team:
-
-```text
-**Backend URL:**  
-| Team 1 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team1) |
-| Team 2 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team2) |
-| Team 3 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team3) |
-| Team 4 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team4) |
-| Team 5 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team5) |
-| Team 6 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team6) |
-| Team 7 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team7) |
-| Team 8 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team8) |
-```
-
-
-Then:
-
-1. Use **Chrome** or **Microsoft Edge**.
-2. Allow microphone access.
-3. Click **Start Listening**.
-4. Speak clearly, one person at a time.
+1. Open your team's Audio Client link.
+2. Use Chrome or Microsoft Edge.
+3. Allow microphone access.
+4. Click **Start Listening**.
+5. Speak clearly and one person at a time.
 
 ---
 
-## 5. Useful Speaking Phrases
+# 5. Useful Speaking Phrases
 
-Use these phrases so the system can understand meeting flow.
-
-### Activate a speaker
+## Start a Speaker
 
 ```text
 Alice, go ahead.
@@ -98,7 +85,7 @@ Over to Charlie.
 Alice, you can start.
 ```
 
-### End a speaker turn
+## Finish a Speaker Turn
 
 ```text
 That is all from me.
@@ -106,10 +93,9 @@ I am done.
 That is my update.
 ```
 
-
 ---
 
-## 6. Daily Standup
+# 6. Daily Standup Format
 
 Each participant should answer:
 
@@ -122,8 +108,6 @@ Do I have any blockers?
 Example:
 
 ```text
-Alice, you can start.
-
 Yesterday I finished the login page.
 Today I will write unit tests.
 I have no blockers.
@@ -131,47 +115,38 @@ I have no blockers.
 
 ---
 
+# 7. End the Meeting
 
-## 8. End the Meeting
-
-At the end:
-
-1. Click **Analyse Meeting** if available.
+1. Click **Analyse Meeting** (if available).
 2. Click **End Meeting**.
 3. Complete the feedback survey.
 
-Survey URL:
+---
 
-```text
-PASTE_SURVEY_URL_HERE
-```
+# 8. Troubleshooting
+
+## Audio Does Not Work
+
+* Use Chrome or Microsoft Edge.
+* Allow microphone access.
+* Refresh the page.
+* Click **Start Listening** again.
+
+## Meeting Not Found
+
+* Start the meeting from the Dashboard first.
+* Verify the Meeting ID.
+* Ensure Dashboard and Audio Client use the same Meeting ID.
+
+## Wrong Transcript Appears
+
+* Verify your Meeting ID.
+* Open the correct team Audio Client URL.
 
 ---
 
-## 9. Troubleshooting
+# 9. Privacy Reminder
 
-### Audio does not work
+Please do not share personal, confidential, or company-sensitive information during the workshop.
 
-- Use Chrome or Microsoft Edge.
-- Allow microphone access.
-- Refresh the audio client page.
-- Click **Start Listening** again.
-
-### Meeting not found
-
-- Start the meeting in the dashboard first.
-- Check that the meeting ID is correct.
-- The dashboard and audio client must use the same meeting ID.
-
-### Wrong team transcript appears
-
-- You are using the wrong meeting ID.
-- Open the correct `/client/team-X` link.
-
----
-
-## 10. Privacy Reminder
-
-Please do not share personal, confidential, or company-specific information during the workshop or in the survey.
-
-The workshop data is used only for academic research and thesis evaluation.
+All collected data will be used only for academic research and thesis evaluation.
