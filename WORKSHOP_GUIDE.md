@@ -7,13 +7,13 @@ This guide explains how to use the Scrum Meeting Moderator during the workshop.
 ## 1. Links
 
 **Dashboard URL:**  
-`PASTE_DASHBOARD_URL_HERE`
+`https://transform-coordination-procedure-true.trycloudflare.com`
 
 **Backend URL:**  
 `PASTE_BACKEND_URL_HERE`
 
 **Survey URL:**  
-`(https://docs.google.com/forms/d/e/1FAIpQLScaKHYjyZjb6lmbOcZoghg587-vcZmUtOjAeEqsdCmxTqGVTg/viewform?usp=sharing&ouid=104127562644944409295)`
+`https://docs.google.com/forms/d/e/1FAIpQLScaKHYjyZjb6lmbOcZoghg587-vcZmUtOjAeEqsdCmxTqGVTg/viewform?usp=sharing&ouid=104127562644944409295`
 
 ---
 
