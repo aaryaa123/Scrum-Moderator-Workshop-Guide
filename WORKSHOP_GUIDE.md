@@ -13,7 +13,7 @@ This guide explains how to use the Scrum Meeting Moderator during the workshop.
 `PASTE_BACKEND_URL_HERE`
 
 **Survey URL:**  
-`PASTE_SURVEY_URL_HERE`
+`(https://docs.google.com/forms/d/e/1FAIpQLScaKHYjyZjb6lmbOcZoghg587-vcZmUtOjAeEqsdCmxTqGVTg/viewform?usp=sharing&ouid=104127562644944409295)`
 
 ---
 
