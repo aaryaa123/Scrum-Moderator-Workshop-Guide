@@ -8,20 +8,20 @@ This guide explains how to use the Scrum Meeting Moderator during the workshop.
 
 ## 📊 Dashboard
 
-[Open Dashboard](https://transform-coordination-procedure-true.trycloudflare.com)
+[Open Dashboard](https://orders-event-marketing-breeds.trycloudflare.com)
 
 ## 🎤 Audio Client Links
 
 | Team   | Audio Client                                                                       |
 | ------ | ---------------------------------------------------------------------------------- |
-| Team 1 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team1) |
-| Team 2 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team2) |
-| Team 3 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team3) |
-| Team 4 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team4) |
-| Team 5 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team5) |
-| Team 6 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team6) |
-| Team 7 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team7) |
-| Team 8 | [Open](https://popular-richards-focuses-thoroughly.trycloudflare.com/client/team8) |
+| Team 1 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team1) |
+| Team 2 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team2) |
+| Team 3 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team3) |
+| Team 4 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team4) |
+| Team 5 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team5) |
+| Team 6 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team6) |
+| Team 7 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team7) |
+| Team 8 | [Open](https://leo-standings-statistics-eating.trycloudflare.com/client/team8) |
 
 ## 📝 Feedback Survey
 
